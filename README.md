@@ -74,6 +74,12 @@ El notebook está estructurado en las siguientes secciones:
 
 ### 11. Recomendación Final
 *   Basado en todos los análisis, se elabora un informe de desempeño detallado y una recomendación estratégica para el Sr. Juan sobre la posible venta de una tienda.
+## 👤 Autor
+Desarrollado por [Harold-dev-code](https://github.com/Harold-dev-code).
+Dentro del programa de formación ONE - Oracle Next Education de Oracle y Alura Latam https://www.oracle.com/latam/education/oracle-next-education/
+## ⚖️ Licencia
+
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles.
 
      
 
